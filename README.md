@@ -3,7 +3,7 @@
 
 # SALES INSIGHTS(Powerbi | Mysql)
 
-### Dashboard Link :https://app.powerbi.com/groups/me/reports/ab3d267b-f0e1-45cd-b4e6-a4ef372c1fdb/f14f3c97052b9a5c72e5?experience=power-bi
+### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiNTZhYmVlZWYtMDhkYS00MmExLTgwOTctYTA3ZjBhOGFhNzNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## About Project
 
